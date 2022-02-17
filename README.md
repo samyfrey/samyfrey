@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋🏻
 
 I am Samy Frey, a French-American software developer based in New York City. 
 
