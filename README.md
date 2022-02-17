@@ -1,8 +1,20 @@
-### Hi there 👋
+### Hi there 👋 
+
+I am Samy Frey, a French-American software developer based in New York City. 
+
+Strong of 10 years of experience in investment banking, I have grown a passion for solving problems and getting complex projects across the finish line. 
+
+
+\
+🌎 Fun fact: I have lived in 5 cities in 4 different continents and speak 3 languages 😄 
+
+[LinkedIn](https://www.linkedin.com/in/samyfrey/)
+
+
 
 <!--
 **samyfrey/samyfrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🇫🇷 🇺🇸 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
