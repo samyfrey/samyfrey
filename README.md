@@ -8,7 +8,7 @@ Strong of 10 years of experience in investment & corporate banking, I have grown
 \
 🌎 Fun fact: I have lived in 5 cities in 4 different continents and speak 3 languages 😄 
 
-[LinkedIn](https://www.linkedin.com/in/samyfrey/)
+Let's connect on **[LinkedIn](https://www.linkedin.com/in/samyfrey/)** !
 
 
 
