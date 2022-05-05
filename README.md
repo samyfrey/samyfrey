@@ -2,7 +2,7 @@
 
 I am Samy Frey, a French-American web developer based in New York City. 
 
-Through 10 years of experience in investment & corporate banking, I have grown a passion for solving problems and getting complex projects across the finish line which I love applying to software engineering. Feel free to reach out if you have any questions about my projects!
+Through almost 10 years of experience in investment & corporate banking, I have grown a passion for solving problems and getting complex projects across the finish line which I love applying to software engineering. Feel free to reach out if you have any questions about my projects!
 
 
 \
