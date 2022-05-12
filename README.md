@@ -8,6 +8,8 @@ Through almost 10 years of experience in investment & corporate banking, I have 
 \
 🌎 Fun fact: I have lived in 5 cities on 4 different continents and speak 3 languages 😄 
 
+Check out my portfolio **[samyfrey.com](https://www.samyfrey.com/)** !
+
 Let's connect on **[LinkedIn](https://www.linkedin.com/in/samyfrey/)** !
 
 
