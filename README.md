@@ -1,12 +1,12 @@
 ### Hi there 👋🏻
 
-I am Samy Frey, a French-American web developer based in New York City. 
+I am Samy Frey, a web developer based in New York City. 
 
 Through almost 10 years of experience in investment & corporate banking, I have grown a passion for solving problems and getting complex projects across the finish line which I love applying to software engineering. Feel free to reach out if you have any questions about my projects!
 
 
 \
-🌎 Fun fact: I have lived in 5 cities on 4 different continents and speak 3 languages 😄 
+🌎 Fun fact: I am originally from France and have lived in 5 cities on 4 different continents. I also speak 3 languages 😄 
 
 Check out my portfolio **[samyfrey.com](https://www.samyfrey.com/)** !
 
