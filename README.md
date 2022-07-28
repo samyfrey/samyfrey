@@ -4,7 +4,7 @@
 Software Engineer currently based in New York City.
 
 Experienced with full-stack web development.
-Technical Skills: ES6 Javascript, Node, Express, React, Python (in progress), Jquery, Bootstrap, HTML, CSS3, Git, Jest, Lighthouse
+Technical Skills: ES6 Javascript, Node, Express, React & NextJS(in progress), Python (in progress), Jquery, Bootstrap, HTML, CSS3, Git, Jest, Lighthouse
 
 
 
