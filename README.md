@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 
-Software Engineer currently based in New York City.
+Software Engineer currently based in Austin, TX. Through almost 10 years of experience in investment & corporate banking, I have grown a passion for solving problems and getting complex projects across the finish line which I love applying to software engineering. 
 
 Experienced with full-stack web development.
 Technical Skills: ES6 Javascript, Node, Express, React & NextJS(in progress), Python (in progress), Jquery, Bootstrap, HTML, CSS3, Git, Jest, Lighthouse
